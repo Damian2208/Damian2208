@@ -1,16 +1,16 @@
 ## Hi there 👋
+# ¡Hola! Soy [DAMIAN RODRIGUEZ] 👋  
 
-<!--
-**Damian2208/Damian2208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Sobre mí  
+- 🌱 Estoy aprendiendo: [administración de sistemas informaticos en red].  
+ - 📫 Contáctame: [rodriguezvelazquezdamian@gmail.com].  
 
-Here are some ideas to get you started:
+### Habilidades  
+- Lenguajes de programación: JavaScript.
+- Frameworks: React, Django, Flask.
+- Herramientas: Git, Docker.
+- Bases de Datos: Manejo de sistemas como MySQL
+- Administración de Sistemas: Configuración de servidores, redes, sistemas operativos (Linux, Windows).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
